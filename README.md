@@ -12,7 +12,7 @@ NVD(按关键词)─┘                            ├──▶ /feed.json ─�
 ```
 
 客户端那侧的契约与行为见 velashell-docs 的
-[`zh/host/消息中心与资讯源.md`](https://github.com/VelaShellLabs/velashell-docs/blob/main/zh/host/消息中心与资讯源.md)。
+[`zh/host/消息中心与资讯源.md`](https://github.com/VelaShell/velashell-docs/blob/main/zh/host/消息中心与资讯源.md)。
 
 ## 跑起来
 
